@@ -1,0 +1,16 @@
+{
+	"id": "weepers",
+	"tags": [
+		"facial hair",
+		"hair",
+		"manly"
+	],
+	"category": [
+		"portrait"
+	],
+	"autogen": {
+		"collection": "autogen",
+		"style": "Male Portrait"
+	},
+	"previewImage": "jpg"
+}

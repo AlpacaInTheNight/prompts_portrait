@@ -1,6 +1,15 @@
 {
 	"id": "buzz cut",
-	"tags": [],
-	"category": [],
-	"previewImage": "png"
+	"tags": [
+		"hair",
+		"manly"
+	],
+	"category": [
+		"portrait"
+	],
+	"previewImage": "jpg",
+	"autogen": {
+		"collection": "autogen",
+		"style": "Female portrait"
+	}
 }

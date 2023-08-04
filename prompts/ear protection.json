@@ -1,5 +1,15 @@
 {
 	"id": "ear protection",
-	"tags": [],
-	"category": []
+	"tags": [
+		"ears",
+		"headwear"
+	],
+	"category": [
+		"portrait"
+	],
+	"autogen": {
+		"collection": "autogen",
+		"style": "Female portrait"
+	},
+	"previewImage": "jpg"
 }

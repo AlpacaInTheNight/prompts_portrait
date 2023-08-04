@@ -1,9 +1,17 @@
 {
 	"id": "hair bow",
-	"tags": [],
+	"tags": [
+		"hair",
+		"headwear",
+		"feminine"
+	],
 	"category": [
 		"cloth",
 		"portrait"
 	],
-	"previewImage": "png"
+	"previewImage": "jpg",
+	"autogen": {
+		"collection": "autogen",
+		"style": "Female portrait"
+	}
 }

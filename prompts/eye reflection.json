@@ -1,5 +1,14 @@
 {
 	"id": "eye reflection",
-	"tags": [],
-	"category": []
+	"tags": [
+		"eyes"
+	],
+	"category": [
+		"portrait"
+	],
+	"autogen": {
+		"collection": "autogen",
+		"style": "Female portrait"
+	},
+	"previewImage": "jpg"
 }

@@ -1,5 +1,17 @@
 {
 	"id": "hair flower",
-	"tags": [],
-	"category": []
+	"tags": [
+		"hair",
+		"headwear",
+		"feminine",
+		"romantic"
+	],
+	"category": [
+		"portrait"
+	],
+	"previewImage": "jpg",
+	"autogen": {
+		"collection": "autogen",
+		"style": "Female portrait"
+	}
 }

@@ -1,6 +1,16 @@
 {
 	"id": "white scrunchie",
-	"tags": [],
-	"category": [],
-	"previewImage": "png"
+	"tags": [
+		"color",
+		"hair",
+		"feminine"
+	],
+	"category": [
+		"portrait"
+	],
+	"autogen": {
+		"collection": "autogen",
+		"style": "Female portrait"
+	},
+	"previewImage": "jpg"
 }

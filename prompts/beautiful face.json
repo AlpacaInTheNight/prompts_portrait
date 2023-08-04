@@ -1,9 +1,14 @@
 {
 	"id": "beautiful face",
-	"tags": [],
-	"category": [
-		"portrait",
-		"character"
+	"tags": [
+		"feminine"
 	],
-	"previewImage": "png"
+	"category": [
+		"portrait"
+	],
+	"autogen": {
+		"collection": "autogen",
+		"style": "Female portrait"
+	},
+	"previewImage": "jpg"
 }

@@ -5,5 +5,9 @@
 		"composition",
 		"portrait"
 	],
-	"previewImage": "png"
+	"previewImage": "jpg",
+	"autogen": {
+		"collection": "autogen",
+		"style": "Female portrait"
+	}
 }

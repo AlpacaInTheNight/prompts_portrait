@@ -1,6 +1,14 @@
 {
 	"id": "round eyes",
-	"tags": [],
-	"category": [],
-	"previewImage": "png"
+	"tags": [
+		"eyes"
+	],
+	"category": [
+		"portrait"
+	],
+	"previewImage": "jpg",
+	"autogen": {
+		"collection": "autogen",
+		"style": "Female portrait"
+	}
 }

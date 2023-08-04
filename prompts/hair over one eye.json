@@ -1,5 +1,15 @@
 {
 	"id": "hair over one eye",
-	"tags": [],
-	"category": []
+	"tags": [
+		"hair",
+		"eyes"
+	],
+	"category": [
+		"portrait"
+	],
+	"previewImage": "jpg",
+	"autogen": {
+		"collection": "autogen",
+		"style": "Female portrait"
+	}
 }

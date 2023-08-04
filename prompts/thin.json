@@ -1,8 +1,15 @@
 {
 	"id": "thin",
-	"tags": [],
-	"category": [
-		"body"
+	"tags": [
+		"feminine"
 	],
-	"previewImage": "png"
+	"category": [
+		"body",
+		"portrait"
+	],
+	"autogen": {
+		"collection": "autogen",
+		"style": "Female Body Type"
+	},
+	"previewImage": "jpg"
 }

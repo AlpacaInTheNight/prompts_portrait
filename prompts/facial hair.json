@@ -1,6 +1,17 @@
 {
 	"id": "facial hair",
-	"tags": [],
-	"category": [],
-	"previewImage": "png"
+	"tags": [
+		"beard",
+		"mustache",
+		"facial hair",
+		"manly"
+	],
+	"category": [
+		"portrait"
+	],
+	"autogen": {
+		"collection": "autogen",
+		"style": "Male Portrait"
+	},
+	"previewImage": "jpg"
 }

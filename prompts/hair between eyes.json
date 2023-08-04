@@ -1,10 +1,15 @@
 {
 	"id": "hair between eyes",
 	"tags": [
-		"hair"
+		"hair",
+		"eyes"
 	],
 	"category": [
 		"portrait"
 	],
-	"previewImage": "png"
+	"previewImage": "jpg",
+	"autogen": {
+		"collection": "autogen",
+		"style": "Female portrait"
+	}
 }

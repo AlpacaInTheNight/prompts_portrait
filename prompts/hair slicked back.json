@@ -1,5 +1,16 @@
 {
 	"id": "hair slicked back",
-	"tags": [],
-	"category": []
+	"tags": [
+		"hair",
+		"manly",
+		"classy"
+	],
+	"category": [
+		"portrait"
+	],
+	"previewImage": "jpg",
+	"autogen": {
+		"collection": "autogen",
+		"style": "Female portrait"
+	}
 }

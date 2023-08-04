@@ -1,9 +1,15 @@
 {
 	"id": "fat",
-	"tags": [],
-	"category": [
-		"character",
-		"body"
+	"tags": [
+		"manly"
 	],
-	"previewImage": "png"
+	"category": [
+		"body",
+		"portrait"
+	],
+	"autogen": {
+		"collection": "autogen",
+		"style": "Female Body Type"
+	},
+	"previewImage": "jpg"
 }

@@ -1,6 +1,14 @@
 {
 	"id": "cosmonaut",
-	"tags": [],
-	"category": [],
-	"previewImage": "png"
+	"tags": [
+		"scifi"
+	],
+	"category": [
+		"character"
+	],
+	"autogen": {
+		"collection": "autogen",
+		"style": "Female Concept"
+	},
+	"previewImage": "jpg"
 }

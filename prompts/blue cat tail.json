@@ -1,0 +1,14 @@
+{
+	"id": "blue cat tail",
+	"tags": [
+		"tail"
+	],
+	"category": [
+		"body"
+	],
+	"autogen": {
+		"collection": "autogen",
+		"style": "Female Concept"
+	},
+	"previewImage": "jpg"
+}

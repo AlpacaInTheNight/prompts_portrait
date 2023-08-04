@@ -1,5 +1,15 @@
 {
 	"id": "double bun",
-	"tags": [],
-	"category": []
+	"tags": [
+		"hair",
+		"feminine"
+	],
+	"category": [
+		"portrait"
+	],
+	"previewImage": "jpg",
+	"autogen": {
+		"collection": "autogen",
+		"style": "Female portrait"
+	}
 }

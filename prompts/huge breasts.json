@@ -1,9 +1,14 @@
 {
 	"id": "huge breasts",
-	"tags": [],
+	"tags": [
+		"breasts"
+	],
 	"category": [
-		"character",
 		"body"
 	],
-	"previewImage": "png"
+	"autogen": {
+		"collection": "autogen",
+		"style": "Female Body Type"
+	},
+	"previewImage": "jpg"
 }

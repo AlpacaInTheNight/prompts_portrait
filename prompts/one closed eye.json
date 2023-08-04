@@ -1,9 +1,15 @@
 {
 	"id": "one closed eye",
-	"tags": [],
-	"category": [
-		"portrait",
-		"character"
+	"tags": [
+		"eyes",
+		"emotion"
 	],
-	"previewImage": "png"
+	"category": [
+		"portrait"
+	],
+	"previewImage": "jpg",
+	"autogen": {
+		"collection": "autogen",
+		"style": "Female portrait"
+	}
 }

@@ -1,5 +1,15 @@
 {
 	"id": "squirrel ears",
-	"tags": [],
-	"category": []
+	"tags": [
+		"furry",
+		"ears"
+	],
+	"category": [
+		"portrait"
+	],
+	"autogen": {
+		"collection": "autogen",
+		"style": "Female portrait"
+	},
+	"previewImage": "jpg"
 }

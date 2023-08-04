@@ -1,11 +1,15 @@
 {
 	"id": "twintails",
 	"tags": [
-		"hair"
+		"hair",
+		"feminine"
 	],
 	"category": [
-		"character",
 		"portrait"
 	],
-	"previewImage": "png"
+	"previewImage": "jpg",
+	"autogen": {
+		"collection": "autogen",
+		"style": "Female portrait"
+	}
 }

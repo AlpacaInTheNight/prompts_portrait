@@ -4,8 +4,12 @@
 		"feminine"
 	],
 	"category": [
-		"character",
-		"body"
+		"body",
+		"portrait"
 	],
-	"previewImage": "png"
+	"autogen": {
+		"collection": "autogen",
+		"style": "Female Body Type"
+	},
+	"previewImage": "jpg"
 }

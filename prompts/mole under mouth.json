@@ -1,6 +1,14 @@
 {
 	"id": "mole under mouth",
-	"tags": [],
-	"category": [],
-	"previewImage": "png"
+	"tags": [
+		"feminine"
+	],
+	"category": [
+		"portrait"
+	],
+	"autogen": {
+		"collection": "autogen",
+		"style": "Female portrait"
+	},
+	"previewImage": "jpg"
 }

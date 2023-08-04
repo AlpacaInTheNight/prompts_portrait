@@ -1,8 +1,15 @@
 {
 	"id": "angry",
-	"tags": [],
-	"category": [
+	"tags": [
 		"emotion"
 	],
-	"previewImage": "png"
+	"category": [
+		"emotion",
+		"portrait"
+	],
+	"autogen": {
+		"collection": "autogen",
+		"style": "Female portrait"
+	},
+	"previewImage": "jpg"
 }

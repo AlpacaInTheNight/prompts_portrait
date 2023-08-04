@@ -1,6 +1,15 @@
 {
 	"id": "pink eyes",
-	"tags": [],
-	"category": [],
-	"previewImage": "png"
+	"tags": [
+		"color",
+		"eyes"
+	],
+	"category": [
+		"portrait"
+	],
+	"previewImage": "jpg",
+	"autogen": {
+		"collection": "autogen",
+		"style": "Female portrait"
+	}
 }

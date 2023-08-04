@@ -1,6 +1,15 @@
 {
 	"id": "wavy hair",
-	"tags": [],
-	"category": [],
-	"previewImage": "png"
+	"tags": [
+		"hair",
+		"classy"
+	],
+	"category": [
+		"portrait"
+	],
+	"previewImage": "jpg",
+	"autogen": {
+		"collection": "autogen",
+		"style": "Female portrait"
+	}
 }

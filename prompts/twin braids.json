@@ -1,9 +1,15 @@
 {
 	"id": "twin braids",
-	"tags": [],
-	"category": [
-		"portrait",
-		"character"
+	"tags": [
+		"hair",
+		"braid"
 	],
-	"previewImage": "png"
+	"category": [
+		"portrait"
+	],
+	"previewImage": "jpg",
+	"autogen": {
+		"collection": "autogen",
+		"style": "Female portrait"
+	}
 }

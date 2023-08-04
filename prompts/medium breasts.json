@@ -1,9 +1,14 @@
 {
 	"id": "medium breasts",
-	"tags": [],
-	"category": [
-		"body",
-		"character"
+	"tags": [
+		"breasts"
 	],
-	"previewImage": "png"
+	"category": [
+		"body"
+	],
+	"autogen": {
+		"collection": "autogen",
+		"style": "Female Body Type"
+	},
+	"previewImage": "jpg"
 }

@@ -1,6 +1,14 @@
 {
 	"id": "rabbit girl",
-	"tags": [],
-	"category": [],
-	"previewImage": "png"
+	"tags": [
+		"furry"
+	],
+	"category": [
+		"character"
+	],
+	"autogen": {
+		"collection": "autogen",
+		"style": "Female Concept"
+	},
+	"previewImage": "jpg"
 }

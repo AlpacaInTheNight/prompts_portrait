@@ -1,5 +1,14 @@
 {
 	"id": "half updo",
-	"tags": [],
-	"category": []
+	"tags": [
+		"hair"
+	],
+	"category": [
+		"portrait"
+	],
+	"previewImage": "jpg",
+	"autogen": {
+		"collection": "autogen",
+		"style": "Female portrait"
+	}
 }

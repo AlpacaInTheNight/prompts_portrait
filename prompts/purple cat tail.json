@@ -1,9 +1,14 @@
 {
 	"id": "purple cat tail",
-	"tags": [],
+	"tags": [
+		"tail"
+	],
 	"category": [
-		"character",
 		"body"
 	],
-	"previewImage": "png"
+	"autogen": {
+		"collection": "autogen",
+		"style": "Female Concept"
+	},
+	"previewImage": "jpg"
 }

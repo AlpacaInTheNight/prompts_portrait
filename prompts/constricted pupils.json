@@ -1,6 +1,14 @@
 {
 	"id": "constricted pupils",
-	"tags": [],
-	"category": [],
-	"previewImage": "png"
+	"tags": [
+		"eyes"
+	],
+	"category": [
+		"portrait"
+	],
+	"autogen": {
+		"collection": "autogen",
+		"style": "Female portrait"
+	},
+	"previewImage": "jpg"
 }

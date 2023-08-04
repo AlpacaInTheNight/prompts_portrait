@@ -1,6 +1,13 @@
 {
 	"id": "pale skin",
 	"tags": [],
-	"category": [],
-	"previewImage": "png"
+	"category": [
+		"body",
+		"portrait"
+	],
+	"autogen": {
+		"collection": "autogen",
+		"style": "Female Body Type"
+	},
+	"previewImage": "jpg"
 }

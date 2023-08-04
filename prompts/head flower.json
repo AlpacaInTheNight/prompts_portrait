@@ -1,6 +1,17 @@
 {
 	"id": "head flower",
-	"tags": [],
-	"category": [],
-	"previewImage": "png"
+	"tags": [
+		"hair",
+		"headwear",
+		"feminine",
+		"romantic"
+	],
+	"category": [
+		"portrait"
+	],
+	"autogen": {
+		"collection": "autogen",
+		"style": "Female portrait"
+	},
+	"previewImage": "jpg"
 }

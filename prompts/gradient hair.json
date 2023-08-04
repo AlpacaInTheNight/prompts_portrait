@@ -1,0 +1,15 @@
+{
+	"id": "gradient hair",
+	"tags": [
+		"hair",
+		"color"
+	],
+	"category": [
+		"portrait"
+	],
+	"autogen": {
+		"collection": "autogen",
+		"style": "Female portrait - Color"
+	},
+	"previewImage": "jpg"
+}

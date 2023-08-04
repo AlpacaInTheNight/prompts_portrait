@@ -1,8 +1,15 @@
 {
 	"id": "athletic",
-	"tags": [],
-	"category": [
-		"body"
+	"tags": [
+		"strong"
 	],
-	"previewImage": "png"
+	"category": [
+		"body",
+		"portrait"
+	],
+	"autogen": {
+		"collection": "autogen",
+		"style": "Female Body Type"
+	},
+	"previewImage": "jpg"
 }

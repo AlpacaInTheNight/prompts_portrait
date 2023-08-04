@@ -1,6 +1,12 @@
 {
 	"id": "doll joints",
 	"tags": [],
-	"category": [],
-	"previewImage": "png"
+	"category": [
+		"body"
+	],
+	"autogen": {
+		"collection": "autogen",
+		"style": "Female Concept"
+	},
+	"previewImage": "jpg"
 }

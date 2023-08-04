@@ -1,6 +1,14 @@
 {
 	"id": "fake animal ears",
-	"tags": [],
-	"category": [],
-	"previewImage": "png"
+	"tags": [
+		"ears"
+	],
+	"category": [
+		"portrait"
+	],
+	"autogen": {
+		"collection": "autogen",
+		"style": "Female portrait"
+	},
+	"previewImage": "jpg"
 }

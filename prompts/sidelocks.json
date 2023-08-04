@@ -1,9 +1,14 @@
 {
 	"id": "sidelocks",
-	"tags": [],
+	"tags": [
+		"hair"
+	],
 	"category": [
-		"character",
 		"portrait"
 	],
-	"previewImage": "png"
+	"previewImage": "jpg",
+	"autogen": {
+		"collection": "autogen",
+		"style": "Female portrait"
+	}
 }

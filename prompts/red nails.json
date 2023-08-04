@@ -1,6 +1,15 @@
 {
 	"id": "red nails",
-	"tags": [],
-	"category": [],
-	"previewImage": "png"
+	"tags": [
+		"color",
+		"fingernails"
+	],
+	"category": [
+		"body"
+	],
+	"autogen": {
+		"collection": "autogen",
+		"style": "Female Concept"
+	},
+	"previewImage": "jpg"
 }

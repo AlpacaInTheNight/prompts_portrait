@@ -1,6 +1,15 @@
 {
 	"id": "fingernails",
-	"tags": [],
-	"category": [],
-	"previewImage": "png"
+	"tags": [
+		"fingernails",
+		"feminine"
+	],
+	"category": [
+		"body"
+	],
+	"autogen": {
+		"collection": "autogen",
+		"style": "Female Concept"
+	},
+	"previewImage": "jpg"
 }

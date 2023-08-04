@@ -1,6 +1,16 @@
 {
 	"id": "ringlet hair",
-	"tags": [],
-	"category": [],
-	"previewImage": "png"
+	"tags": [
+		"hair",
+		"classy",
+		"scifi"
+	],
+	"category": [
+		"portrait"
+	],
+	"previewImage": "jpg",
+	"autogen": {
+		"collection": "autogen",
+		"style": "Female portrait"
+	}
 }

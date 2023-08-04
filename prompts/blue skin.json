@@ -1,6 +1,15 @@
 {
 	"id": "blue skin",
-	"tags": [],
-	"category": [],
-	"previewImage": "png"
+	"tags": [
+		"color"
+	],
+	"category": [
+		"body",
+		"portrait"
+	],
+	"autogen": {
+		"collection": "autogen",
+		"style": "Female Body Type"
+	},
+	"previewImage": "jpg"
 }

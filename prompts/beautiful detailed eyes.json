@@ -1,9 +1,16 @@
 {
 	"id": "beautiful detailed eyes",
-	"tags": [],
+	"tags": [
+		"eyes",
+		"feminine"
+	],
 	"category": [
 		"quality",
 		"portrait"
 	],
-	"previewImage": "png"
+	"previewImage": "jpg",
+	"autogen": {
+		"collection": "autogen",
+		"style": "Female portrait"
+	}
 }

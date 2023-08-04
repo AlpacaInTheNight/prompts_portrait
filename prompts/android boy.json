@@ -1,0 +1,14 @@
+{
+	"id": "android boy",
+	"tags": [
+		"scifi"
+	],
+	"category": [
+		"character"
+	],
+	"autogen": {
+		"collection": "autogen",
+		"style": "Male Concept"
+	},
+	"previewImage": "jpg"
+}

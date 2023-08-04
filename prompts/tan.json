@@ -3,7 +3,11 @@
 	"tags": [],
 	"category": [
 		"body",
-		"character"
+		"portrait"
 	],
-	"previewImage": "png"
+	"autogen": {
+		"collection": "autogen",
+		"style": "Female Body Type"
+	},
+	"previewImage": "jpg"
 }

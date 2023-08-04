@@ -1,0 +1,16 @@
+{
+	"id": "goatee",
+	"tags": [
+		"beard",
+		"facial hair",
+		"manly"
+	],
+	"category": [
+		"portrait"
+	],
+	"autogen": {
+		"collection": "autogen",
+		"style": "Male Portrait"
+	},
+	"previewImage": "jpg"
+}

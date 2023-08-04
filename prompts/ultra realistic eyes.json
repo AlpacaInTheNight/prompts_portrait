@@ -1,9 +1,15 @@
 {
 	"id": "ultra realistic eyes",
-	"tags": [],
+	"tags": [
+		"eyes"
+	],
 	"category": [
 		"portrait",
 		"quality"
 	],
-	"previewImage": "png"
+	"previewImage": "jpg",
+	"autogen": {
+		"collection": "autogen",
+		"style": "Female portrait"
+	}
 }

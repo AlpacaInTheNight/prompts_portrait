@@ -1,9 +1,14 @@
 {
 	"id": "very long hair",
-	"tags": [],
-	"category": [
-		"portrait",
-		"character"
+	"tags": [
+		"hair"
 	],
-	"previewImage": "png"
+	"category": [
+		"portrait"
+	],
+	"previewImage": "jpg",
+	"autogen": {
+		"collection": "autogen",
+		"style": "Female portrait"
+	}
 }

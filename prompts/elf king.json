@@ -1,0 +1,16 @@
+{
+	"id": "elf king",
+	"tags": [
+		"fantasy",
+		"noble",
+		"classy"
+	],
+	"category": [
+		"character"
+	],
+	"autogen": {
+		"collection": "autogen",
+		"style": "Male Concept"
+	},
+	"previewImage": "jpg"
+}

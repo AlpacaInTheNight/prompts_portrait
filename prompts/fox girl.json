@@ -1,8 +1,14 @@
 {
 	"id": "fox girl",
-	"tags": [],
+	"tags": [
+		"furry"
+	],
 	"category": [
 		"character"
 	],
-	"previewImage": "png"
+	"autogen": {
+		"collection": "autogen",
+		"style": "Female Concept"
+	},
+	"previewImage": "jpg"
 }

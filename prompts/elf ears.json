@@ -1,6 +1,15 @@
 {
 	"id": "elf ears",
-	"tags": [],
-	"category": [],
-	"previewImage": "png"
+	"tags": [
+		"ears",
+		"fantasy"
+	],
+	"category": [
+		"portrait"
+	],
+	"autogen": {
+		"collection": "autogen",
+		"style": "Female portrait"
+	},
+	"previewImage": "jpg"
 }

@@ -1,11 +1,15 @@
 {
 	"id": "multicolored hair",
 	"tags": [
-		"color"
+		"color",
+		"hair"
 	],
 	"category": [
-		"character",
 		"portrait"
 	],
-	"previewImage": "png"
+	"previewImage": "jpg",
+	"autogen": {
+		"collection": "autogen",
+		"style": "Female portrait - Color"
+	}
 }

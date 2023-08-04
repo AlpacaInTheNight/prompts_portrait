@@ -1,5 +1,12 @@
 {
 	"id": "wings",
 	"tags": [],
-	"category": []
+	"category": [
+		"body"
+	],
+	"autogen": {
+		"collection": "autogen",
+		"style": "Female Concept"
+	},
+	"previewImage": "jpg"
 }

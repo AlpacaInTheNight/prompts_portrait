@@ -1,6 +1,15 @@
 {
 	"id": "fox ears",
-	"tags": [],
-	"category": [],
-	"previewImage": "png"
+	"tags": [
+		"furry",
+		"ears"
+	],
+	"category": [
+		"portrait"
+	],
+	"autogen": {
+		"collection": "autogen",
+		"style": "Female portrait"
+	},
+	"previewImage": "jpg"
 }

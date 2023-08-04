@@ -2,11 +2,15 @@
 	"id": "dragon girl",
 	"tags": [
 		"species",
-		"fantasy"
+		"fantasy",
+		"furry"
 	],
 	"category": [
-		"character",
-		"body"
+		"character"
 	],
-	"previewImage": "png"
+	"autogen": {
+		"collection": "autogen",
+		"style": "Female Concept"
+	},
+	"previewImage": "jpg"
 }

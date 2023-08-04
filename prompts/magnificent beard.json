@@ -1,0 +1,17 @@
+{
+	"id": "magnificent beard",
+	"tags": [
+		"beard",
+		"facial hair",
+		"manly",
+		"classy"
+	],
+	"category": [
+		"portrait"
+	],
+	"autogen": {
+		"collection": "autogen",
+		"style": "Male Portrait"
+	},
+	"previewImage": "jpg"
+}

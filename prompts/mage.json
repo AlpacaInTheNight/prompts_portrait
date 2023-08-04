@@ -1,0 +1,15 @@
+{
+	"id": "mage",
+	"tags": [
+		"classy",
+		"fantasy"
+	],
+	"category": [
+		"character"
+	],
+	"autogen": {
+		"collection": "autogen",
+		"style": "Male Concept"
+	},
+	"previewImage": "jpg"
+}

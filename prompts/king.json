@@ -1,0 +1,16 @@
+{
+	"id": "king",
+	"tags": [
+		"noble",
+		"classy",
+		"middleages"
+	],
+	"category": [
+		"character"
+	],
+	"autogen": {
+		"collection": "autogen",
+		"style": "Male Concept"
+	},
+	"previewImage": "jpg"
+}

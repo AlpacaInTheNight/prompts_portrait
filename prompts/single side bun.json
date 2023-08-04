@@ -1,6 +1,14 @@
 {
 	"id": "single side bun",
-	"tags": [],
-	"category": [],
-	"previewImage": "png"
+	"tags": [
+		"hair"
+	],
+	"category": [
+		"portrait"
+	],
+	"previewImage": "jpg",
+	"autogen": {
+		"collection": "autogen",
+		"style": "Female portrait"
+	}
 }

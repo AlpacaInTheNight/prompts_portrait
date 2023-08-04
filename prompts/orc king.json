@@ -1,0 +1,16 @@
+{
+	"id": "orc king",
+	"tags": [
+		"fantasy",
+		"strong",
+		"noble"
+	],
+	"category": [
+		"character"
+	],
+	"autogen": {
+		"collection": "autogen",
+		"style": "Male Concept"
+	},
+	"previewImage": "jpg"
+}

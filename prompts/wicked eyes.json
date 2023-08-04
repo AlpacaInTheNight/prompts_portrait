@@ -1,6 +1,15 @@
 {
 	"id": "wicked eyes",
-	"tags": [],
-	"category": [],
-	"previewImage": "png"
+	"tags": [
+		"eyes",
+		"emotion"
+	],
+	"category": [
+		"portrait"
+	],
+	"autogen": {
+		"collection": "autogen",
+		"style": "Female portrait"
+	},
+	"previewImage": "jpg"
 }

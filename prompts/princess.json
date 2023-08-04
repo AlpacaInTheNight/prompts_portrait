@@ -1,0 +1,17 @@
+{
+	"id": "princess",
+	"tags": [
+		"fantasy",
+		"middleages",
+		"noble",
+		"classy"
+	],
+	"category": [
+		"character"
+	],
+	"autogen": {
+		"collection": "autogen",
+		"style": "Female Concept"
+	},
+	"previewImage": "jpg"
+}

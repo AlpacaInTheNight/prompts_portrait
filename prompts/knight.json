@@ -1,0 +1,17 @@
+{
+	"id": "knight",
+	"tags": [
+		"fantasy",
+		"strong",
+		"armor",
+		"middleages"
+	],
+	"category": [
+		"character"
+	],
+	"autogen": {
+		"collection": "autogen",
+		"style": "Male Concept"
+	},
+	"previewImage": "jpg"
+}

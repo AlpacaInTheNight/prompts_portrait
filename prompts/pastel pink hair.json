@@ -1,5 +1,15 @@
 {
 	"id": "pastel pink hair",
-	"tags": [],
-	"category": []
+	"tags": [
+		"hair",
+		"color"
+	],
+	"category": [
+		"portrait"
+	],
+	"autogen": {
+		"collection": "autogen",
+		"style": "Female portrait - Color"
+	},
+	"previewImage": "jpg"
 }

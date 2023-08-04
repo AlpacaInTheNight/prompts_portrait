@@ -1,0 +1,17 @@
+{
+	"id": "prince",
+	"tags": [
+		"fantasy",
+		"middleages",
+		"noble",
+		"classy"
+	],
+	"category": [
+		"character"
+	],
+	"autogen": {
+		"collection": "autogen",
+		"style": "Male Concept"
+	},
+	"previewImage": "jpg"
+}

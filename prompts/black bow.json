@@ -1,9 +1,18 @@
 {
 	"id": "black bow",
-	"tags": [],
+	"tags": [
+		"color",
+		"hair",
+		"headwear",
+		"feminine"
+	],
 	"category": [
 		"cloth",
 		"portrait"
 	],
-	"previewImage": "png"
+	"autogen": {
+		"collection": "autogen",
+		"style": "Female portrait"
+	},
+	"previewImage": "jpg"
 }

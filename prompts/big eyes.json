@@ -1,6 +1,16 @@
 {
 	"id": "big eyes",
-	"tags": [],
-	"category": [],
-	"previewImage": "png"
+	"tags": [
+		"eyes",
+		"emotion",
+		"feminine"
+	],
+	"category": [
+		"portrait"
+	],
+	"previewImage": "jpg",
+	"autogen": {
+		"collection": "autogen",
+		"style": "Female portrait"
+	}
 }

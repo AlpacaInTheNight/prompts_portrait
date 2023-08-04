@@ -1,0 +1,17 @@
+{
+	"id": "pencil mustache",
+	"tags": [
+		"mustache",
+		"facial hair",
+		"manly",
+		"classy"
+	],
+	"category": [
+		"portrait"
+	],
+	"autogen": {
+		"collection": "autogen",
+		"style": "Male Portrait"
+	},
+	"previewImage": "jpg"
+}

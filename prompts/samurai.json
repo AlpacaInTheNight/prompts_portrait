@@ -1,0 +1,16 @@
+{
+	"id": "samurai",
+	"tags": [
+		"strong",
+		"asian",
+		"middleages"
+	],
+	"category": [
+		"character"
+	],
+	"autogen": {
+		"collection": "autogen",
+		"style": "Male Concept"
+	},
+	"previewImage": "jpg"
+}

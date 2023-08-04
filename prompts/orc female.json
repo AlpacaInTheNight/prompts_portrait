@@ -1,0 +1,15 @@
+{
+	"id": "orc female",
+	"tags": [
+		"fantasy",
+		"strong"
+	],
+	"category": [
+		"character"
+	],
+	"autogen": {
+		"collection": "autogen",
+		"style": "Female Concept"
+	},
+	"previewImage": "jpg"
+}

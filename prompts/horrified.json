@@ -1,6 +1,14 @@
 {
 	"id": "horrified",
-	"tags": [],
-	"category": [],
-	"previewImage": "png"
+	"tags": [
+		"emotion"
+	],
+	"category": [
+		"portrait"
+	],
+	"autogen": {
+		"collection": "autogen",
+		"style": "Female portrait"
+	},
+	"previewImage": "jpg"
 }

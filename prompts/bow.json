@@ -1,9 +1,17 @@
 {
 	"id": "bow",
-	"tags": [],
+	"tags": [
+		"hair",
+		"headwear"
+	],
 	"category": [
 		"cloth",
-		"object"
+		"object",
+		"portrait"
 	],
-	"previewImage": "png"
+	"autogen": {
+		"collection": "autogen",
+		"style": "Female portrait"
+	},
+	"previewImage": "jpg"
 }

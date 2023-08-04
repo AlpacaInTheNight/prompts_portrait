@@ -1,6 +1,14 @@
 {
 	"id": "mermaid tail replace legs",
-	"tags": [],
-	"category": [],
-	"previewImage": "png"
+	"tags": [
+		"tail"
+	],
+	"category": [
+		"body"
+	],
+	"autogen": {
+		"collection": "autogen",
+		"style": "Female Concept"
+	},
+	"previewImage": "jpg"
 }

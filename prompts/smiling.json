@@ -1,10 +1,16 @@
 {
 	"id": "smiling",
-	"tags": [],
+	"tags": [
+		"emotion"
+	],
 	"category": [
 		"action",
 		"portrait",
 		"emotion"
 	],
-	"previewImage": "png"
+	"autogen": {
+		"collection": "autogen",
+		"style": "Female portrait"
+	},
+	"previewImage": "jpg"
 }

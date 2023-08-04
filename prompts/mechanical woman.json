@@ -1,0 +1,14 @@
+{
+	"id": "mechanical woman",
+	"tags": [
+		"scifi"
+	],
+	"category": [
+		"character"
+	],
+	"autogen": {
+		"collection": "autogen",
+		"style": "Female Concept"
+	},
+	"previewImage": "jpg"
+}

@@ -1,5 +1,15 @@
 {
 	"id": "flaming eyes",
-	"tags": [],
-	"category": []
+	"tags": [
+		"eyes",
+		"emotion"
+	],
+	"category": [
+		"portrait"
+	],
+	"autogen": {
+		"collection": "autogen",
+		"style": "Female portrait"
+	},
+	"previewImage": "jpg"
 }

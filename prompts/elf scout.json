@@ -1,0 +1,14 @@
+{
+	"id": "elf scout",
+	"tags": [
+		"fantasy"
+	],
+	"category": [
+		"character"
+	],
+	"autogen": {
+		"collection": "autogen",
+		"style": "Male Concept"
+	},
+	"previewImage": "jpg"
+}

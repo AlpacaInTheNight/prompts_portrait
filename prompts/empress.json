@@ -1,5 +1,14 @@
 {
 	"id": "empress",
-	"tags": [],
-	"category": []
+	"tags": [
+		"feminine"
+	],
+	"category": [
+		"character"
+	],
+	"previewImage": "jpg",
+	"autogen": {
+		"collection": "autogen",
+		"style": "Female Concept"
+	}
 }

@@ -1,6 +1,14 @@
 {
 	"id": "mechanical limbs",
-	"tags": [],
-	"category": [],
-	"previewImage": "png"
+	"tags": [
+		"scifi"
+	],
+	"category": [
+		"body"
+	],
+	"autogen": {
+		"collection": "autogen",
+		"style": "Female Concept"
+	},
+	"previewImage": "jpg"
 }

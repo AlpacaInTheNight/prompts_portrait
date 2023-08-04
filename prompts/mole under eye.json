@@ -1,6 +1,14 @@
 {
 	"id": "mole under eye",
-	"tags": [],
-	"category": [],
-	"previewImage": "png"
+	"tags": [
+		"eyes"
+	],
+	"category": [
+		"portrait"
+	],
+	"previewImage": "jpg",
+	"autogen": {
+		"collection": "autogen",
+		"style": "Female portrait"
+	}
 }

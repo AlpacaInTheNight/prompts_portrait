@@ -5,9 +5,11 @@
 		"color"
 	],
 	"category": [
-		"portrait",
-		"character"
+		"portrait"
 	],
-	"comment": "sdfsdf",
-	"previewImage": "png"
+	"previewImage": "jpg",
+	"autogen": {
+		"collection": "autogen",
+		"style": "Female portrait - Color"
+	}
 }

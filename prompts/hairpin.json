@@ -1,5 +1,16 @@
 {
 	"id": "hairpin",
-	"tags": [],
-	"category": []
+	"tags": [
+		"hair",
+		"headwear",
+		"feminine"
+	],
+	"category": [
+		"portrait"
+	],
+	"previewImage": "jpg",
+	"autogen": {
+		"collection": "autogen",
+		"style": "Female portrait"
+	}
 }

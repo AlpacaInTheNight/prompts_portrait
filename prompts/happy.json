@@ -1,10 +1,15 @@
 {
 	"id": "happy",
-	"tags": [],
+	"tags": [
+		"emotion"
+	],
 	"category": [
 		"emotion",
-		"portrait",
-		"character"
+		"portrait"
 	],
-	"previewImage": "png"
+	"autogen": {
+		"collection": "autogen",
+		"style": "Female portrait"
+	},
+	"previewImage": "jpg"
 }

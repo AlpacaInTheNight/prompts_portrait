@@ -5,8 +5,11 @@
 		"fantasy"
 	],
 	"category": [
-		"character",
-		"body"
+		"character"
 	],
-	"previewImage": "png"
+	"autogen": {
+		"collection": "autogen",
+		"style": "Female Concept"
+	},
+	"previewImage": "jpg"
 }

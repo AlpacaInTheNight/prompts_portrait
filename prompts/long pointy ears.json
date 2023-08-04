@@ -1,5 +1,14 @@
 {
 	"id": "long pointy ears",
-	"tags": [],
-	"category": []
+	"tags": [
+		"ears"
+	],
+	"category": [
+		"portrait"
+	],
+	"autogen": {
+		"collection": "autogen",
+		"style": "Female portrait"
+	},
+	"previewImage": "jpg"
 }

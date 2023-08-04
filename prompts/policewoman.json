@@ -1,0 +1,12 @@
+{
+	"id": "policewoman",
+	"tags": [],
+	"category": [
+		"character"
+	],
+	"autogen": {
+		"collection": "autogen",
+		"style": "Female Concept"
+	},
+	"previewImage": "jpg"
+}

@@ -1,6 +1,16 @@
 {
 	"id": "elven queen",
-	"tags": [],
-	"category": [],
-	"previewImage": "png"
+	"tags": [
+		"fantasy",
+		"noble",
+		"classy"
+	],
+	"category": [
+		"character"
+	],
+	"autogen": {
+		"collection": "autogen",
+		"style": "Female Concept"
+	},
+	"previewImage": "jpg"
 }

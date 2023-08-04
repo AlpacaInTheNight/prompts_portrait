@@ -1,6 +1,14 @@
 {
 	"id": "nail polish",
-	"tags": [],
-	"category": [],
-	"previewImage": "png"
+	"tags": [
+		"feminine"
+	],
+	"category": [
+		"body"
+	],
+	"autogen": {
+		"collection": "autogen",
+		"style": "Female Concept"
+	},
+	"previewImage": "jpg"
 }

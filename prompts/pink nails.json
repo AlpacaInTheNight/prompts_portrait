@@ -1,6 +1,16 @@
 {
 	"id": "pink nails",
-	"tags": [],
-	"category": [],
-	"previewImage": "png"
+	"tags": [
+		"color",
+		"fingernails",
+		"feminine"
+	],
+	"category": [
+		"body"
+	],
+	"autogen": {
+		"collection": "autogen",
+		"style": "Female Concept"
+	},
+	"previewImage": "jpg"
 }

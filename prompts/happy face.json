@@ -1,9 +1,14 @@
 {
 	"id": "happy face",
-	"tags": [],
+	"tags": [
+		"emotion"
+	],
 	"category": [
-		"character",
 		"portrait"
 	],
-	"previewImage": "png"
+	"autogen": {
+		"collection": "autogen",
+		"style": "Female portrait"
+	},
+	"previewImage": "jpg"
 }

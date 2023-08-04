@@ -1,5 +1,16 @@
 {
 	"id": "blue nails",
-	"tags": [],
-	"category": []
+	"tags": [
+		"color",
+		"fingernails",
+		"feminine"
+	],
+	"category": [
+		"body"
+	],
+	"previewImage": "jpg",
+	"autogen": {
+		"collection": "autogen",
+		"style": "Female Concept"
+	}
 }

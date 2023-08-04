@@ -1,9 +1,16 @@
 {
 	"id": "rainbow hair band",
-	"tags": [],
-	"category": [
-		"portrait",
-		"character"
+	"tags": [
+		"color",
+		"hair",
+		"headwear"
 	],
-	"previewImage": "png"
+	"category": [
+		"portrait"
+	],
+	"previewImage": "jpg",
+	"autogen": {
+		"collection": "autogen",
+		"style": "Female portrait"
+	}
 }

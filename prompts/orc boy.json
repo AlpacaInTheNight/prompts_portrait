@@ -1,0 +1,15 @@
+{
+	"id": "orc boy",
+	"tags": [
+		"fantasy",
+		"strong"
+	],
+	"category": [
+		"character"
+	],
+	"autogen": {
+		"collection": "autogen",
+		"style": "Male Concept"
+	},
+	"previewImage": "jpg"
+}

@@ -1,6 +1,15 @@
 {
 	"id": "dark elf",
-	"tags": [],
-	"category": [],
-	"previewImage": "png"
+	"tags": [
+		"species",
+		"fantasy"
+	],
+	"category": [
+		"character"
+	],
+	"autogen": {
+		"collection": "autogen",
+		"style": "Female Concept"
+	},
+	"previewImage": "jpg"
 }

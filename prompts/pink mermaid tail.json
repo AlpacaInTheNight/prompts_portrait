@@ -1,6 +1,15 @@
 {
 	"id": "pink mermaid tail",
-	"tags": [],
-	"category": [],
-	"previewImage": "png"
+	"tags": [
+		"color",
+		"tail"
+	],
+	"category": [
+		"body"
+	],
+	"autogen": {
+		"collection": "autogen",
+		"style": "Female Concept"
+	},
+	"previewImage": "jpg"
 }

@@ -1,0 +1,16 @@
+{
+	"id": "dwarf king",
+	"tags": [
+		"noble",
+		"classy",
+		"fantasy"
+	],
+	"category": [
+		"character"
+	],
+	"autogen": {
+		"collection": "autogen",
+		"style": "Male Concept"
+	},
+	"previewImage": "jpg"
+}

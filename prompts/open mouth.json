@@ -1,10 +1,15 @@
 {
 	"id": "open mouth",
-	"tags": [],
+	"tags": [
+		"emotion"
+	],
 	"category": [
 		"emotion",
-		"character",
 		"portrait"
 	],
-	"previewImage": "png"
+	"autogen": {
+		"collection": "autogen",
+		"style": "Female portrait"
+	},
+	"previewImage": "jpg"
 }

@@ -1,6 +1,12 @@
 {
 	"id": "fake mustache",
 	"tags": [],
-	"category": [],
-	"previewImage": "png"
+	"category": [
+		"portrait"
+	],
+	"autogen": {
+		"collection": "autogen",
+		"style": "Female portrait"
+	},
+	"previewImage": "jpg"
 }
